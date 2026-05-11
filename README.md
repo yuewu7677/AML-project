@@ -1,7 +1,5 @@
 # LLM Memorization Starter
 
-This starter project gives you one clean baseline for the experiment in your screenshot:
-
 1. Generate a synthetic memorization dataset and an unrelated background SFT dataset.
 2. Fine-tune a small causal language model on the memorization strings.
 3. Continue training on unrelated data to measure forgetting.
