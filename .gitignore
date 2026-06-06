@@ -6,6 +6,7 @@ __pycache__/
 results/
 report_old_*/
 slurm/logs/
+handoff/
 *.aux
 *.log
 *.out
