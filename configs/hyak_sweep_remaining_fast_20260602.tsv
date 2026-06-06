@@ -1,0 +1,3 @@
+experiment_name	model	memorize_count	background_count	string_length	memorize_epochs	forget_epochs	memorize_lr	forget_lr	batch_size	grad_accum	max_length
+gpt2_keys512_len12_rerun_20260602	gpt2	512	4096	12	140	1,2,4,8,16	5e-5	5e-5	8	2	128
+gpt2_medium_keys512_len12_rerun_20260602	gpt2-medium	512	4096	12	100	1,2,4,8,16	2e-5	2e-5	8	2	128

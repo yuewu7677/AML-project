@@ -1,0 +1,2 @@
+experiment_name	base_experiment	model_label	background_count	forget_lr	batch_size	grad_accum	max_length	forget_epochs
+gpt2_h3_capacity_n512_len12_bg4096_lr2e6_20260605	gpt2_keys512_len12_rerun_20260602	gpt2	4096	2e-6	8	2	128	1,2,4,8

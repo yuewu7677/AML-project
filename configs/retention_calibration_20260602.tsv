@@ -1,0 +1,5 @@
+experiment_name	background_count	forget_lr	batch_size	grad_accum	max_length	forget_epochs
+gpt2_medium_retention_bg4096_lr2e6_20260602	4096	2e-6	8	2	128	1,2,4,8
+gpt2_medium_retention_bg4096_lr5e7_20260602	4096	5e-7	8	2	128	1,2,4,8
+gpt2_medium_retention_bg1024_lr2e5_20260602	1024	2e-5	8	2	128	1,2,4,8
+gpt2_medium_retention_bg1024_lr2e6_20260602	1024	2e-6	8	2	128	1,2,4,8

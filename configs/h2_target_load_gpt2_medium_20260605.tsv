@@ -1,0 +1,4 @@
+experiment_name	model	memorize_count	background_count	string_length	memorize_epochs	forget_epochs	memorize_lr	forget_lr	batch_size	grad_accum	max_length
+gpt2_medium_h2_n256_len8_bg4096_lr2e6_20260605	gpt2-medium	256	4096	8	100	1,2,4,8,16	2e-5	2e-6	8	2	128
+gpt2_medium_h2_n256_len12_bg4096_lr2e6_20260605	gpt2-medium	256	4096	12	100	1,2,4,8,16	2e-5	2e-6	8	2	128
+gpt2_medium_h2_n512_len8_bg4096_lr2e6_20260605	gpt2-medium	512	4096	8	100	1,2,4,8,16	2e-5	2e-6	8	2	128
